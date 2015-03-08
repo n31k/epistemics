@@ -18,7 +18,7 @@ Chalmers, A. F. (1999). What Is This Thing Called Science?. Univ. of Queensland 
 Hacking, I. (1983). Representing and Intervening: Introductory Topics in the Philosophy of Natural Science. Cambridge University Press.  
 Hacking, I. (1999). The Social Construction of What?. Harvard University Press.  
 Hanson, N. R. (1958). Patterns of Discovery: An Inquiry Into the Conceptual Foundations of Science. CUP Archive.  
-Hofer, B. K., & Pintrich, P. R. (1997). The Development of Epistemological Theories: Beliefs about Knowledge and Knowing and Their Relation to Learning. Review of Educational Research, 67(1), 88–140. doi:10.2307/1170620  
+Hofer, B. K., & Pintrich, P. R. (1997). The Development of Epistemological Theories: Beliefs about Knowledge and Knowing and Their Relation to Learning. Review of Educational Research, 67(1), 88â€“140. doi:10.2307/1170620  
 Kuhn, T. S. (2012). The Structure of Scientific Revolutions: 50th Anniversary Edition. University of Chicago Press.  
 Lakatos, I. (1980). Mathematics, Science and Epistemology: Volume 2, Philosophical Papers. Cambridge University Press.  
 
